@@ -1,0 +1,38 @@
+body{
+background-color: #5847f5;
+}
+.jumbotron{
+  text-align: center;
+}
+.well{
+  color: black;
+}
+button{
+  border-radius: 16px;
+  background-color: rgb(218, 206, 206);
+  font-size: 20pt;
+  width: 200px;
+  text-align: center;
+}
+#submit1:hover{
+  background-color: #cacaca;
+  color: black;
+}
+#reset-btn:hover{
+  background-color: rgb(93, 6, 6);
+  color: black;
+  text-decoration: none;
+
+}
+#message{
+  color: white;
+  font-size: 50px;
+  font-weight: bolder;
+  background-color:black;
+  margin-top: 20px;
+  text-align: center;
+
+}
+.reset{
+  text-decoration: none;
+}
